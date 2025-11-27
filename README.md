@@ -1,2 +1,27 @@
 # DigihealthCard-WebAppication
 DigiHealthCard is a web-based healthcare management system that stores and manages patient records digitally. It provides secure access for patients, doctors, and admins to view, update, and manage health data through a modern, user-friendly JSP-based interface.
+## 📸 Project Preview
+
+![Preview 1](DHpreview/Screenshot%202025-11-27%20205041.png)
+![Preview 2](DHpreview/Screenshot%202025-11-27%20205130.png)
+![Preview 3](DHpreview/Screenshot%202025-11-27%20205153.png)
+![Preview 4](DHpreview/Screenshot%202025-11-27%20205214.png)
+![Preview 5](DHpreview/Screenshot%202025-11-27%20205231.png)
+![Preview 6](DHpreview/Screenshot%202025-11-27%20205309.png)
+![Preview 7](DHpreview/Screenshot%202025-11-27%20205553.png)
+![Preview 8](DHpreview/Screenshot%202025-11-27%20210420.png)
+![Preview 9](DHpreview/Screenshot%202025-11-27%20210509.png)
+![Preview 10](DHpreview/Screenshot%202025-11-27%20210859.png)
+![Preview 11](DHpreview/Screenshot%202025-11-27%20210818.png)
+![Preview 12](DHpreview/Screenshot%202025-11-27%20210838.png)
+![Preview 13](DHpreview/Screenshot%202025-11-27%20210914.png)
+![Preview 14](DHpreview/Screenshot%202025-11-27%20210955.png)
+![Preview 15](DHpreview/Screenshot%202025-11-27%20211009.png)
+![Preview 16](DHpreview/Screenshot%202025-11-27%20211012.png)
+![Preview 17](DHpreview/Screenshot%202025-11-27%20211104.png)
+![Preview 18](DHpreview/Screenshot%202025-11-27%20211153.png)
+![Preview 19](DHpreview/Screenshot%202025-11-27%20211211.png)
+![Preview 20](DHpreview/Screenshot%202025-11-27%20211233.png)
+![Preview 21](DHpreview/Screenshot%202025-11-27%20211252.png)
+![Preview 22](DHpreview/Screenshot%202025-11-27%20211306.png)
+![Preview 23](DHpreview/Screenshot%202025-11-27%20211320.png)
