@@ -20,7 +20,7 @@ A modern digital health record management system built using **JSP, Servlets, My
 - Clean dashboard interface  
 
 ### 🔹 Doctor Module
-- Doctor dashboard (if implemented)  
+- Doctor dashboard   
 - View assigned patients  
 - Update medical comments and prescriptions  
 
