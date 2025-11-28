@@ -1,5 +1,47 @@
-# DigihealthCard-WebAppication
-DigiHealthCard is a web-based healthcare management system that stores and manages patient records digitally. It provides secure access for patients, doctors, and admins to view, update, and manage health data through a modern, user-friendly JSP-based interface.
+# 📘 DigiHealthCard WebApplication
+
+A modern digital health record management system built using **JSP, Servlets, MySQL, HTML, CSS**, and a clean dashboard UI. DigiHealthCard centralizes **patient information**, **doctor management**, and **health records** into an easy-to-use web interface for clinics, hospitals, and health centers.
+
+---
+
+## ✨ Key Features
+
+### 🔹 Admin Panel
+- Dynamic counts: total doctors, patients, and health records  
+- Add / update / delete doctor and patient data  
+- Latest health records table with clean UI  
+- Modern sidebar navigation system  
+- Fully responsive dashboard layout  
+
+### 🔹 Patient Module
+- View patient profile  
+- Profile picture upload system  
+- View personal health records  
+- Clean dashboard interface  
+
+### 🔹 Doctor Module
+- Doctor dashboard (if implemented)  
+- View assigned patients  
+- Update medical comments and prescriptions  
+
+### 🔹 UI & Design
+- Modern, responsive interface  
+- Consistent dashboard layout  
+- Styled tables, forms, and sidebar menu  
+
+---
+
+## 🧱 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** JSP, Servlets  
+- **Database:** MySQL  
+- **Server:** Apache Tomcat  
+- **Architecture:** MVC-based Java Web App  
+
+---
+
+
 ## 📸 Project Preview
 
 ![Preview 1](DHpreview/Screenshot%202025-11-27%20205041.png)
@@ -25,3 +67,18 @@ DigiHealthCard is a web-based healthcare management system that stores and manag
 ![Preview 21](DHpreview/Screenshot%202025-11-27%20211252.png)
 ![Preview 22](DHpreview/Screenshot%202025-11-27%20211306.png)
 ![Preview 23](DHpreview/Screenshot%202025-11-27%20211320.png)
+
+
+---
+## 👨‍💻 Author
+
+Om VInod Nandre
+
+GitHub: https://github.com/omnandre07
+
+LinkedIn: https://www.linkedin.com/in/om-nandre-0b8569397/
+
+---
+## ⭐ Show Support
+
+If you found this project helpful or inspiring, consider giving it a ⭐ star on GitHub!
